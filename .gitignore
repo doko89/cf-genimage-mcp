@@ -1,0 +1,5 @@
+# build artifact (root-level binary only)
+/cf-genimage
+
+# credentials (never commit)
+.env
